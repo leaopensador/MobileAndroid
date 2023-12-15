@@ -35,6 +35,6 @@ fun GreetingView(text: String) {
 @Composable
 fun DefaultPreview() {
     MyApplicationTheme {
-        GreetingView("Ola Mundo, Kotlin no Android e iOS!")
+        GreetingView("Ola Mundo, Kotlin Multiplataforma no Android e iOS!")
     }
 }
